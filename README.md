@@ -1,2 +1,3 @@
 # Admin-Dashboard
-Dashboard Demo
+Dashboard Demo:
+![Alt text](./images/Dashboard.png)
